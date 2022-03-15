@@ -1,0 +1,7 @@
+git init = inicia o git
+git status = mostra os arquivos e os comits dentro do projeto
+git add = adiciona arquivos no projeto
+git commit -m "nome" = cria um commit e o nomeia 
+git config --global user. = define o usuário (email e nome) 
+git remote add origin = adiciona o repositório do github
+git push -u origin master = define o branch como master
